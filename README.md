@@ -30,7 +30,7 @@ Apple wraps its exclusive or paid podcast content in Widevine DRM and serves it 
 The recommended way to install the tool is via `pipx`, which creates an isolated environment and makes the `apple-podcast` command available globally.
 
 ```bash
-git clone https://github.com/yourusername/apple-podcast-downloader.git
+git clone https://github.com/dirafu/apple-podcast-downloader.git
 cd apple-podcast-downloader
 pipx install .
 ```
